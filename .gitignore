@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# If you're using env or venv folders:
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python virtualenv
+.venv/
+.venv.bak/
+.Python
+
+# VS Code / PyCharm / etc
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Environment variables
+.env
+
+# Static files
+staticfiles/
+media/
+
+# Local config
+config/
