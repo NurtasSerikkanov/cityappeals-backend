@@ -39,4 +39,4 @@ staticfiles/
 media/
 
 # Local config
-config/
+#config/
